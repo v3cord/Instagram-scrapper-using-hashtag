@@ -20,3 +20,23 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+📦 Output
+
+CSV file named as: <hashtag>_<number>_posts_data.csv
+Example: coding_100_posts_data.csv
+⚠️ Note
+
+    Instagram may temporarily restrict actions if scraping is done too aggressively.
+
+    Use a secondary or test account for login to avoid affecting your main account.
+
+    This script only works for public posts and profiles.
+📝 Usage
+
+python insta.py
+
+You will be prompted to enter:
+
+    Instagram hashtag (without #)
+
+    Number of posts to scrape
