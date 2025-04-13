@@ -4,8 +4,8 @@ import csv
 from instagrapi import Client
 
 # Define login credentials
-USERNAME = "oogy.42"
-PASSWORD = "yatrtatrsarvatr"
+USERNAME = "   "
+PASSWORD = "    "
 
 # Login to Instagram
 client = Client()
